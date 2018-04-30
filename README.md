@@ -4,7 +4,8 @@
 Simple audio real-time visualization
 
 The project use these libraries:
-* [NAudio](https://github.com/markheath/naudio) by Mark Heath - Audio and MIDI library for .NET.
-* Accord - v.3.8.2-alpha
-* Accord.Audio - v.3.8.2-alpha
-* Accord.Math - v.3.8.2-alpha
+* [NAudio](https://github.com/markheath/naudio) by Mark Heath - v1.8.4
+* [WPF Sound Visualization Library](https://github.com/jacobjohnston/wpfsvl/) - v1.0.0
+* Accord - v3.8.2-alpha
+* Accord.Audio - v3.8.2-alpha
+* Accord.Math - v3.8.2-alpha
