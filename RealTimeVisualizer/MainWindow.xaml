@@ -1,0 +1,9 @@
+﻿<Window x:Class="RealTimeVisualizer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="700"
+        xmlns:Vis="clr-namespace:WPFSoundVisualizationLib;assembly=WPFSoundVisualizationLib" 
+        WindowStyle="None" 
+        WindowState="Maximized">
+    <Vis:SpectrumAnalyzer Name="Analyzer" BarCount="96" BarSpacing="2"/>
+</Window>
